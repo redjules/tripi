@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="flex items-center justify-center flex-col w-full h-full">
           <div data-aos="fade-up">
             <h1 className="text-[25px] mb-4 md:mb-0 text-center md:text-[35px] lg:text-[45px] tracking-[0.7rem] text-white font-bold uppercase">
-              Let's Enjoy The Nature
+              Let&apos;s Enjoy The Nature
             </h1>
             <p className="md:text-base text-center text-lg text-white font-normal [word-spacing:5px]">
               Get the best prices on 2,000,000+ properties, worldwide
