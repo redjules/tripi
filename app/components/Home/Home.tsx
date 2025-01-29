@@ -7,7 +7,6 @@ import WhyChoose from "./WhyChoose/WhyChoose";
 import Review from "./Reviews/Review";
 import News from "./News/News";
 import Newsletter from "./Newsletter/Newsletter";
-import Footer from "./Footer/Footer";
 import AOS from "aos";
 import "aos/dist/aos.css"; //
 
